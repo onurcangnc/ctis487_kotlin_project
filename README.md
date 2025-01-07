@@ -2,6 +2,8 @@
 
 StoX Market is a dynamic Android application designed to provide users with a seamless cryptocurrency trading experience. The app includes features such as buying, selling, and tracking cryptocurrency assets. It offers real-time data, detailed asset information, and an intuitive user interface for both beginners and experienced traders.
 
+[![Watch the video](https://img.youtube.com/vi/qgR0_H-N5L8/0.jpg)](https://www.youtube.com/shorts/qgR0_H-N5L8)
+
 ## Key Features
 
 **Real-Time Data**: Display current cryptocurrency prices and percentage changes.
@@ -40,6 +42,12 @@ StoX Market is a dynamic Android application designed to provide users with a se
 3. Ensure you have the required SDKs and dependencies installed.
 4. Build and run the project on an emulator or physical device.
 
+## Team
+
+- Emir Tuna Beşli
+- Kıvanç Kurt
+- Cavit Mert Ergül
+- Onurcan Genç
 
 ## Contribution Guidelines
 
