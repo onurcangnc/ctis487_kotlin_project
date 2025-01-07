@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="home">HOME</string>
+    <string name="wallet">WALLET</string>
+    <string name="portfolio">TRANSACTIONS</string>
+    <string name="settings">SETTINGS</string>
+</resources>
