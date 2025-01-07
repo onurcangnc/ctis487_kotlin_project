@@ -44,10 +44,10 @@ StoX Market is a dynamic Android application designed to provide users with a se
 
 ## Team
 
-- Emir Tuna Beşli
-- Kıvanç Kurt
-- Cavit Mert Ergül
-- Onurcan Genç
+- Emir Tuna Beşli - Backend & U/I & API Integration
+- Kıvanç Kurt - Database & Backend & API Integration
+- Cavit Mert Ergül - U/I & API Integration
+- Onurcan Genç - U/I & Software Test & API Test & Icon
 
 ## Contribution Guidelines
 
